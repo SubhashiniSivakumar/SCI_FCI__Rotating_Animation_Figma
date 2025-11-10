@@ -43,13 +43,17 @@ Feel free to open an issue or drop your feedback.
 
 <p float="left">
 
-<img src="Page 1.png" width="200">
-<img src="Page 2.png" width="200">
-<img src="Page 3.png" width="200"><br>
-<img src="Page 4.png" width="200">
-<img src="Page 5.png" width="200">
-<img src="Page 6.png" width="200"><br>
-<img src="Design Page.png" width="400">
-<img src="Props Page.png" width="400">
-<img src="Final Page.png" width="400">
+<img src="Design Page.png" width="200"><br>
+<img src="ARION 1.png" width="200">
+<img src="ARION 1.png" width="200"><br>
+<img src="EDEN 1.png" width="200">
+<img src="EDEN 2.png" width="200"><br>
+<img src="NAWRIN 1.png" width="200">
+<img src="NAWRIN 2.png" width="400"><br>
+<img src="NEPTUNE 1.png" width="400">
+<img src="NEPTUNE 2.png" width="400"><br>
+<img src="TRITON 1.png" width="400">
+<img src="TRITON 2.png" width="400"><br>
+<img src="ZION 1.png" width="400">
+<img src="ZION 2.png" width="400">
 </p>
