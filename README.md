@@ -1,0 +1,1 @@
+# SCI_FCI__Rotating_Animation_Figma
