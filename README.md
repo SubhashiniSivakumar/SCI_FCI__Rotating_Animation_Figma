@@ -57,9 +57,4 @@ Feel free to open an issue or drop your feedback.
 <img src="ZION 2.png" width="200"><br>
 <img src="Design Page.png" width="300">
 </p>
-<video width="640" controls muted autoplay loop>
-  <source src="https://github.com/SubhashiniSivakumar/SCI_FCI__Rotating_Animation_Figma/blob/main/SCI%20FCI%20Animation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
-https://github.com/SubhashiniSivakumar/SCI_FCI__Rotating_Animation_Figma/blob/main/SCI%20FCI%20Animation.mp4
